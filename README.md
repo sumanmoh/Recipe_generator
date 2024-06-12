@@ -1,3 +1,5 @@
+# Recipe_generator
+
 Creating a recipe generator using Django involves setting up a web application where users can perform CRUD (Create, Read, Update, Delete) operations on recipes. The application will ensure users are authenticated before they can create recipes. Here is a basic description of the project and its components:
 
 Project Overview Project Name: Recipe Generator
